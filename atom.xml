@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>usbcsusbの小窝</title>
+  
+  
+  <link href="https://www.adarkroom.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.adarkroom.cn/"/>
+  <updated>2023-08-04T02:44:38.000Z</updated>
+  <id>https://www.adarkroom.cn/</id>
+  
+  <author>
+    <name>usbcsusb</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>23 年 8 月学习动态</title>
+    <link href="https://www.adarkroom.cn/posts/e55c4bb3/"/>
+    <id>https://www.adarkroom.cn/posts/e55c4bb3/</id>
+    <published>2023-08-04T02:44:38.000Z</published>
+    <updated>2023-08-04T02:44:38.000Z</updated>
+    
+    
+    
+    
+    <category term="生活" scheme="https://www.adarkroom.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://www.adarkroom.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>字节跳动青训营</title>
+    <link href="https://www.adarkroom.cn/posts/5fbcce1d/"/>
+    <id>https://www.adarkroom.cn/posts/5fbcce1d/</id>
+    <published>2023-08-04T02:33:44.000Z</published>
+    <updated>2023-08-04T02:33:44.000Z</updated>
+    
+    
+    
+    
+    <category term="字节跳动青训营" scheme="https://www.adarkroom.cn/categories/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%9D%92%E8%AE%AD%E8%90%A5/"/>
+    
+    
+    <category term="字节跳动青训营" scheme="https://www.adarkroom.cn/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%9D%92%E8%AE%AD%E8%90%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>论如何在家开IDC数据中心</title>
+    <link href="https://www.adarkroom.cn/posts/d257fca9/"/>
+    <id>https://www.adarkroom.cn/posts/d257fca9/</id>
+    <published>2023-08-04T02:27:01.000Z</published>
+    <updated>2023-08-04T02:27:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>话说在前头，每个人对家庭网络的需求是不一样的，合适自己最好。我也不是什么专业玩家，纯属兴趣爱好，本篇文章分享为主。下面为本人的观点，难免会有些认知误区，烦请大佬指点下，但是拒绝杠精。 你杠你对。</p><p>有些大型任务，单机性能是很难胜任，需要多机一起跑任务。 刚才也提到硬盘速度很快，因此多台机器之间互联速度对于整体集群性能发挥至关重要。Top 500的超算绝大部分是靠机器堆起来的，所以内部高速互联（网络）是不可缺的一个环节。本人也是照着超算的思路在家搭建这么一套的东西，和真正的超算差太远了(毕竟凝聚了无数人的智慧，非常先进)。 本人也是在摸索，觉得非常有意思就把过程分享下</p><p>交换机<br />先从交换机说吧，网络中最重要的一部分。就跟字面意思，能让你在内网从A电脑传数据到B电脑，就这么简单。A电脑和B电脑很大程度上取决于端口速度和中间链接速度。你端口速度是万兆并且能跑到万兆水平，中间是千兆交换机的话，那么你整个传输过程中就千兆水平（木桶效应）。因此有一个高速率的交换机是很好选择，它甚至能保证你未来几年使用不落伍。你可以把交换机类比道路，再想象一下中国为什么是基建狂魔 (这样做能给国家带来什么好处)。你就能明白我为什么会疯狂升级交换机。一台超高吞吐量的交换机在部分人手上非常有价值不代表在你手上就一定有价值！不要再问类似 “有用吗” 的话！</p><p>你可以去Ethernet Roadmap看看自己有没有落伍。目前头部IDC 核心交换机应该是400G的。看似和普通人很遥远，但其实你生活日常上网都少不了IDC的作用。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;话说在前头，每个人对家庭网络的需求是不一样的，合适自己最好。我也不是什么专业玩家，纯属兴趣爱好，本篇文章分享为主。下面为本人的观点，难免会有些认知误区，烦请大佬指点下，但是拒绝杠精。 你杠你对。&lt;/p&gt;
+&lt;p&gt;有些大型任务，单机性能是很难胜任，需要多机一起跑任务。 刚才也提</summary>
+      
+    
+    
+    
+    <category term="在家开IDC" scheme="https://www.adarkroom.cn/categories/%E5%9C%A8%E5%AE%B6%E5%BC%80IDC/"/>
+    
+    
+    <category term="在家开IDC" scheme="https://www.adarkroom.cn/tags/%E5%9C%A8%E5%AE%B6%E5%BC%80IDC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决sqljdbc4爆红</title>
+    <link href="https://www.adarkroom.cn/posts/9629187d/"/>
+    <id>https://www.adarkroom.cn/posts/9629187d/</id>
+    <published>2023-08-03T15:53:49.000Z</published>
+    <updated>2023-08-03T15:53:49.000Z</updated>
+    
+    
+    
+    
+    <category term="改bug" scheme="https://www.adarkroom.cn/categories/%E6%94%B9bug/"/>
+    
+    
+    <category term="改bug" scheme="https://www.adarkroom.cn/tags/%E6%94%B9bug/"/>
+    
+  </entry>
+  
+</feed>

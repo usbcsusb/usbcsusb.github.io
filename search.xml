@@ -1,26 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>first-post</title>
-    <url>/2023/07/27/first-post/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/07/28/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>23 年 8 月学习动态</title>
+      <link href="/posts/e55c4bb3/"/>
+      <url>/posts/e55c4bb3/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>字节跳动青训营</title>
+      <link href="/posts/5fbcce1d/"/>
+      <url>/posts/5fbcce1d/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 字节跳动青训营 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 字节跳动青训营 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>论如何在家开IDC数据中心</title>
+      <link href="/posts/d257fca9/"/>
+      <url>/posts/d257fca9/</url>
+      
+        <content type="html"><![CDATA[<p>话说在前头，每个人对家庭网络的需求是不一样的，合适自己最好。我也不是什么专业玩家，纯属兴趣爱好，本篇文章分享为主。下面为本人的观点，难免会有些认知误区，烦请大佬指点下，但是拒绝杠精。 你杠你对。</p><p>有些大型任务，单机性能是很难胜任，需要多机一起跑任务。 刚才也提到硬盘速度很快，因此多台机器之间互联速度对于整体集群性能发挥至关重要。Top 500的超算绝大部分是靠机器堆起来的，所以内部高速互联（网络）是不可缺的一个环节。本人也是照着超算的思路在家搭建这么一套的东西，和真正的超算差太远了(毕竟凝聚了无数人的智慧，非常先进)。 本人也是在摸索，觉得非常有意思就把过程分享下</p><p>交换机<br />先从交换机说吧，网络中最重要的一部分。就跟字面意思，能让你在内网从A电脑传数据到B电脑，就这么简单。A电脑和B电脑很大程度上取决于端口速度和中间链接速度。你端口速度是万兆并且能跑到万兆水平，中间是千兆交换机的话，那么你整个传输过程中就千兆水平（木桶效应）。因此有一个高速率的交换机是很好选择，它甚至能保证你未来几年使用不落伍。你可以把交换机类比道路，再想象一下中国为什么是基建狂魔 (这样做能给国家带来什么好处)。你就能明白我为什么会疯狂升级交换机。一台超高吞吐量的交换机在部分人手上非常有价值不代表在你手上就一定有价值！不要再问类似 “有用吗” 的话！</p><p>你可以去Ethernet Roadmap看看自己有没有落伍。目前头部IDC 核心交换机应该是400G的。看似和普通人很遥远，但其实你生活日常上网都少不了IDC的作用。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 在家开IDC </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 在家开IDC </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>解决sqljdbc4爆红</title>
+      <link href="/posts/9629187d/"/>
+      <url>/posts/9629187d/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 改bug </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 改bug </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
