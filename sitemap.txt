@@ -1,3 +1,6 @@
+https://www.adarkroom.cn/posts/cef9dda9/
+https://www.adarkroom.cn/posts/719eedea/
+https://www.adarkroom.cn/posts/89015d00/
 https://www.adarkroom.cn/othersite/index.html
 https://www.adarkroom.cn/messageboard/index.html
 https://www.adarkroom.cn/posts/e55c4bb3/
@@ -26,7 +29,9 @@ https://www.adarkroom.cn/tags/%E7%94%9F%E6%B4%BB/
 https://www.adarkroom.cn/tags/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%9D%92%E8%AE%AD%E8%90%A5/
 https://www.adarkroom.cn/tags/%E6%94%B9bug/
 https://www.adarkroom.cn/tags/%E5%9C%A8%E5%AE%B6%E5%BC%80IDC/
+https://www.adarkroom.cn/tags/%E6%B0%91%E5%AE%BF%E6%8A%A2%E5%8D%95%E8%AE%A2%E8%B4%AD%E7%B3%BB%E7%BB%9F/
 https://www.adarkroom.cn/categories/%E7%94%9F%E6%B4%BB/
 https://www.adarkroom.cn/categories/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%9D%92%E8%AE%AD%E8%90%A5/
 https://www.adarkroom.cn/categories/%E6%94%B9bug/
 https://www.adarkroom.cn/categories/%E5%9C%A8%E5%AE%B6%E5%BC%80IDC/
+https://www.adarkroom.cn/categories/%E6%B0%91%E5%AE%BF%E6%8A%A2%E5%8D%95%E8%AE%A2%E8%B4%AD%E7%B3%BB%E7%BB%9F/
