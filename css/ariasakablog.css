@@ -73,7 +73,7 @@ body {
 }
 [data-theme="dark"] #web_bg {
     /* 背景图像的地址（url括号里）  */
-    background: url('https://bu.dusays.com/2022/12/08/6391b77ed767c.png'); /*（就是/img/b.webp）*/
+    background: url('https://img.adarkroom.cn/adarkroom/%E8%83%8C%E6%99%AF%E5%9B%BE6391b77ed767c.png?adarkroom'); /*（就是/img/b.webp）*/
     /* 背景图像不重复 */
     background-repeat: no-repeat;
     /* 背景图像大小 */
