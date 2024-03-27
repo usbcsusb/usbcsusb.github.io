@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on adarkroom</title>
+    <link>https://adarkroom.cn/tags/go/</link>
+    <description>Recent content in Go on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 08 Jun 2022 18:02:51 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go</title>
+      <link>https://adarkroom.cn/posts/go/</link>
+      <pubDate>Wed, 08 Jun 2022 18:02:51 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/go/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;记录一些golang开发的问题 😢&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;img src=&#34;https://adarkroom.cn/posts/go/imgs/2.webp&#34; width=&#34;320&#34; /&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on adarkroom</title>
+    <link>https://adarkroom.cn/tags/hugo/</link>
+    <description>Recent content in Hugo on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 29 Jun 2022 09:18:49 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://adarkroom.cn/posts/markdown/</link>
+      <pubDate>Wed, 29 Jun 2022 09:18:49 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/markdown/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这里是 Hugo 解析 Markdown 内容的展示，如果你使用的是 Org Mode ，可以跳转 &lt;a href=&#34;https://adarkroom.cn/posts/org-mode&#34;&gt;Org Mode&lt;/a&gt; 查看相关样式。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;以下 markdown 正文内容，摘自 &lt;a href=&#34;https://github.com/hexojs/hexo-theme-unit-test/edit/master/source/_posts/markdown.md&#34;&gt;Markdown 测试文本&lt;/a&gt; ，并添加、修改了一些章节。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This post is originated from &lt;a href=&#34;https://gist.github.com/apackeer/4159268&#34;&gt;here&lt;/a&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://adarkroom.cn/posts/go/</link>
+      <pubDate>Wed, 08 Jun 2022 18:02:51 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/go/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;记录一些golang开发的问题 😢&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;img src=&#34;https://adarkroom.cn/posts/go/imgs/2.webp&#34; width=&#34;320&#34; /&gt;</description>
+    </item>
+  </channel>
+</rss>

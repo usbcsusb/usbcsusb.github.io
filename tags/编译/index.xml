@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编译 on adarkroom</title>
+    <link>https://adarkroom.cn/tags/%E7%BC%96%E8%AF%91/</link>
+    <description>Recent content in 编译 on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 13 May 2020 13:54:02 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/tags/%E7%BC%96%E8%AF%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>源码编译安装</title>
+      <link>https://adarkroom.cn/posts/source-code-compile/</link>
+      <pubDate>Wed, 13 May 2020 13:54:02 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/source-code-compile/</guid>
+      <description>&lt;img src=&#34;https://adarkroom.cn/posts/source-code-compile/imgs/scc-1.png&#34; width=&#34;600&#34; style=&#34;&#34; /&gt;&#xA;&lt;p&gt;Linux 下源代码的编译安装，及其编译过程和可能遇到的问题。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

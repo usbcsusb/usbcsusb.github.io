@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ajax on adarkroom</title>
+    <link>https://adarkroom.cn/tags/ajax/</link>
+    <description>Recent content in Ajax on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Nov 2020 09:58:54 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ajax</title>
+      <link>https://adarkroom.cn/posts/ajax/</link>
+      <pubDate>Thu, 26 Nov 2020 09:58:54 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/ajax/</guid>
+      <description>&lt;p&gt;什么是 Ajax ?&lt;/p&gt;&#xA;&lt;img src=&#34;https://adarkroom.cn/posts/ajax/imgs/ajax-1.png&#34; width=&#34;600&#34; /&gt;&#xA;&lt;p&gt;AJAX（Asynchronous JavaScript and XML），是一种异步请求数据的 Web 开发技术。它不是新的编程语言，而是一种使用现有标准的新方法。其最大的优点是在不重新加载整个页面的情况下，可以与服务器交换数据并更新部分网页内容。&lt;/p&gt;&#xA;&lt;p&gt;*注：AJAX 不需要任何浏览器插件，但需要用户允许 JavaScript 在浏览器上执行。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
