@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on adarkroom</title>
+    <link>https://adarkroom.cn/categories/</link>
+    <description>Recent content in Categories on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Mar 2023 09:22:10 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>_Misc</title>
+      <link>https://adarkroom.cn/categories/_misc/</link>
+      <pubDate>Tue, 28 Mar 2023 09:22:10 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/_misc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>标准化</title>
+      <link>https://adarkroom.cn/categories/%E6%A0%87%E5%87%86%E5%8C%96/</link>
+      <pubDate>Wed, 02 Nov 2022 15:42:33 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/%E6%A0%87%E5%87%86%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>休闲</title>
+      <link>https://adarkroom.cn/categories/%E4%BC%91%E9%97%B2/</link>
+      <pubDate>Fri, 22 Jul 2022 16:45:07 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/%E4%BC%91%E9%97%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://adarkroom.cn/categories/javascript/</link>
+      <pubDate>Thu, 21 Jul 2022 14:13:29 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>关于</title>
+      <link>https://adarkroom.cn/categories/%E5%85%B3%E4%BA%8E/</link>
+      <pubDate>Mon, 18 Jul 2022 17:37:22 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/%E5%85%B3%E4%BA%8E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OLs</title>
+      <link>https://adarkroom.cn/categories/ols/</link>
+      <pubDate>Thu, 14 Jul 2022 15:44:16 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/ols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://adarkroom.cn/categories/java/</link>
+      <pubDate>Tue, 05 Jul 2022 10:00:17 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://adarkroom.cn/categories/linux/</link>
+      <pubDate>Mon, 04 Jul 2022 09:58:24 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cs 计算机科学</title>
+      <link>https://adarkroom.cn/categories/cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Wed, 28 Jul 2021 18:36:35 +0800</pubDate>
+      <guid>https://adarkroom.cn/categories/cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cs 计算机科学 on adarkroom</title>
+    <link>https://adarkroom.cn/categories/cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/</link>
+    <description>Recent content in Cs 计算机科学 on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 Jul 2021 18:36:35 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/categories/cs-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teach Yourself Computer Science</title>
+      <link>https://adarkroom.cn/posts/teach-yourself-computer-science/</link>
+      <pubDate>Wed, 28 Jul 2021 18:36:35 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/teach-yourself-computer-science/</guid>
+      <description>&lt;p&gt;i.e. 自学计算机科学&lt;/p&gt;&#xA;&lt;p&gt;🔔 转载 &lt;a href=&#34;https://teachyourselfcs.com/&#34;&gt;英文原文&lt;/a&gt;、&lt;a href=&#34;https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md&#34;&gt;中文译本&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;无意中看到这篇文章，感觉挺不错的，转载一下，方便摘录！&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

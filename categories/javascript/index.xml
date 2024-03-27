@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on adarkroom</title>
+    <link>https://adarkroom.cn/categories/javascript/</link>
+    <description>Recent content in JavaScript on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 21 Jul 2022 14:13:29 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>防抖与节流</title>
+      <link>https://adarkroom.cn/posts/debounce-and-throttle/</link>
+      <pubDate>Thu, 21 Jul 2022 14:13:29 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/debounce-and-throttle/</guid>
+      <description>&lt;p&gt;为什么需要防抖和节流？它们是什么？有什么区别？适用场景是什么？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scroll Bar</title>
+      <link>https://adarkroom.cn/posts/scroll-bar/</link>
+      <pubDate>Tue, 09 Mar 2021 11:06:13 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/scroll-bar/</guid>
+      <description>&lt;p&gt;🔔 参考 &lt;a href=&#34;https://www.cnblogs.com/wjw1014/p/13564175.html&#34;&gt;https://www.cnblogs.com/wjw1014/p/13564175.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Dom</title>
+      <link>https://adarkroom.cn/posts/virtual-dom/</link>
+      <pubDate>Wed, 02 Dec 2020 10:33:28 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/virtual-dom/</guid>
+      <description>&lt;p&gt;Before learning Virtual DOM, lets take a look at DOM.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ajax</title>
+      <link>https://adarkroom.cn/posts/ajax/</link>
+      <pubDate>Thu, 26 Nov 2020 09:58:54 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/ajax/</guid>
+      <description>&lt;p&gt;什么是 Ajax ?&lt;/p&gt;&#xA;&lt;img src=&#34;https://adarkroom.cn/posts/ajax/imgs/ajax-1.png&#34; width=&#34;600&#34; /&gt;&#xA;&lt;p&gt;AJAX（Asynchronous JavaScript and XML），是一种异步请求数据的 Web 开发技术。它不是新的编程语言，而是一种使用现有标准的新方法。其最大的优点是在不重新加载整个页面的情况下，可以与服务器交换数据并更新部分网页内容。&lt;/p&gt;&#xA;&lt;p&gt;*注：AJAX 不需要任何浏览器插件，但需要用户允许 JavaScript 在浏览器上执行。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cross Domain</title>
+      <link>https://adarkroom.cn/posts/cross-domain/</link>
+      <pubDate>Tue, 03 Nov 2020 09:15:07 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/cross-domain/</guid>
+      <description>&lt;p&gt;🔔 本文摘录自 &lt;a href=&#34;http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html&#34;&gt;浏览器同源政策及其规避方法&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Webpack Dev Server Proxy</title>
+      <link>https://adarkroom.cn/posts/webpack-dev-server-proxy/</link>
+      <pubDate>Mon, 02 Nov 2020 09:10:08 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/webpack-dev-server-proxy/</guid>
+      <description>&lt;p&gt;🔔 转载自 &lt;a href=&#34;https://www.cnblogs.com/liuguiqian/p/11362211.html&#34;&gt;详解Webpack-dev-server的proxy用法&lt;/a&gt; ，了解更多&lt;a href=&#34;https://blog.csdn.net/guzhao593/article/details/81516135&#34;&gt;1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;解决开发环境的跨域问题(不用在去配置nginx和host, 爽歪歪~~)&lt;/p&gt;&#xA;&lt;p&gt;*注：F12 查看网络请求路径，还是原来的，所以只能从效果上去观察是否正确代理了。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

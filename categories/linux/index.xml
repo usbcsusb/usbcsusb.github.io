@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on adarkroom</title>
+    <link>https://adarkroom.cn/categories/linux/</link>
+    <description>Recent content in Linux on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 04 Jul 2022 09:58:24 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vim</title>
+      <link>https://adarkroom.cn/posts/vim/</link>
+      <pubDate>Mon, 04 Jul 2022 09:58:24 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/vim/</guid>
+      <description>&lt;p&gt;Vim 是 Vi 的升级版，一款功能强大、高度可定制的文本编辑器，它只有一个对手 &amp;ndash; Emacs 。那么，它来自哪里？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://adarkroom.cn/posts/git/</link>
+      <pubDate>Wed, 21 Jul 2021 15:22:00 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/git/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;不可或缺的工具！！！&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;本文旨在记录个人使用过程中遇到的相关 Git 命令，。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nginx-转载</title>
+      <link>https://adarkroom.cn/posts/nginx/</link>
+      <pubDate>Fri, 23 Oct 2020 14:09:07 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/nginx/</guid>
+      <description>&lt;p&gt;在认识、学习 Nginx 之前，我们先来看一下代理是什么，如果你已经非常熟悉代理，可以直接跳到第二个章节。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>源码编译安装</title>
+      <link>https://adarkroom.cn/posts/source-code-compile/</link>
+      <pubDate>Wed, 13 May 2020 13:54:02 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/source-code-compile/</guid>
+      <description>&lt;img src=&#34;https://adarkroom.cn/posts/source-code-compile/imgs/scc-1.png&#34; width=&#34;600&#34; style=&#34;&#34; /&gt;&#xA;&lt;p&gt;Linux 下源代码的编译安装，及其编译过程和可能遇到的问题。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>十分钟掌握 TMUX</title>
+      <link>https://adarkroom.cn/posts/tmux/</link>
+      <pubDate>Wed, 26 Feb 2020 11:33:29 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/tmux/</guid>
+      <description>&lt;img src=&#34;https://www.wangbase.com/blogimg/asset/201910/bg2019102005.png&#34; width=&#34;300&#34; /&gt;&#xA;&lt;p&gt;🔔 &lt;a href=&#34;%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5&#34;&gt;http://www.ruanyifeng.com/blog/2019/10/tmux.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;oh-essay&#34;&gt;&#xA;Windows 终于有了个 Windows-Terminal 吧，配置文件还是个 txt .... 哎，微软啊，你妹。&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

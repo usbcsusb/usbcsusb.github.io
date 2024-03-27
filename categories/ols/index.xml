@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OLs on adarkroom</title>
+    <link>https://adarkroom.cn/categories/ols/</link>
+    <description>Recent content in OLs on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 14 Jul 2022 15:44:16 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/categories/ols/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Json Web Tokens</title>
+      <link>https://adarkroom.cn/posts/json-web-tokens/</link>
+      <pubDate>Thu, 14 Jul 2022 15:44:16 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/json-web-tokens/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jwt.io/&#34;&gt;https://jwt.io/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://adarkroom.cn/posts/go/</link>
+      <pubDate>Wed, 08 Jun 2022 18:02:51 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/go/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;记录一些golang开发的问题 😢&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;img src=&#34;https://adarkroom.cn/posts/go/imgs/2.webp&#34; width=&#34;320&#34; /&gt;</description>
+    </item>
+    <item>
+      <title>正则表达式-转载</title>
+      <link>https://adarkroom.cn/posts/regexp/</link>
+      <pubDate>Tue, 24 May 2022 17:55:59 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/regexp/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;很强大，也让人很头大…… 这只是一个精简的摘要，相信我，即使总结的再全面，一段时间之后，也需要借助参考手册，才能正确的使用它。&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://adarkroom.cn/posts/sql/</link>
+      <pubDate>Mon, 17 Jan 2022 16:08:20 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/sql/</guid>
+      <description>&lt;p&gt;🔔 摘录自 &lt;a href=&#34;https://www.liaoxuefeng.com/wiki/1177760294764384&#34;&gt;廖雪峰老师的 SQL 教程&lt;/a&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;https://adarkroom.cn/posts/sql/imgs/sql-1.png&#34; width=&#34;80&#34; style=&#34;float: left; margin-right: 8px; &#34; /&gt;&#xA;&lt;p&gt;SQL，结构化查询语言（Structured Query Language ），是一种数据库查询和程序设计语言，用于访问和操作数据库系统。SQL 语句既可以查询数据库中的数据，也可以插入、更新和删除数据库中的数据，还可以对数据库进行管理和维护操作。&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;=数据库能听懂的语言 &amp;ndash; SQL&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

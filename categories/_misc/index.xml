@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Misc on adarkroom</title>
+    <link>https://adarkroom.cn/categories/_misc/</link>
+    <description>Recent content in _Misc on adarkroom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Mar 2023 09:22:10 +0800</lastBuildDate>
+    <atom:link href="https://adarkroom.cn/categories/_misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前端浅谈</title>
+      <link>https://adarkroom.cn/posts/web-front-end/</link>
+      <pubDate>Tue, 28 Mar 2023 09:22:10 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/web-front-end/</guid>
+      <description>&lt;p&gt;本文不涉及具体的细节，浅谈一下 Web 前端的 1 2 3 ……&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>财富笔记</title>
+      <link>https://adarkroom.cn/posts/wealth-note/</link>
+      <pubDate>Fri, 16 Dec 2022 11:43:37 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/wealth-note/</guid>
+      <description>&lt;p&gt;&lt;code&gt;&amp;gt; 用来记录理财的相关知识 📖&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>嗨，PC</title>
+      <link>https://adarkroom.cn/posts/hi-pc/</link>
+      <pubDate>Fri, 14 Oct 2022 16:11:58 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/hi-pc/</guid>
+      <description>近来，准备组装一台 PC 主机，做个记录 ~</description>
+    </item>
+    <item>
+      <title>CPU 缓存是什么</title>
+      <link>https://adarkroom.cn/posts/cpu-cache/</link>
+      <pubDate>Tue, 02 Aug 2022 11:30:24 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/cpu-cache/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;转载自 &lt;a href=&#34;https://www.jb51.net/hardware/cpu/610074.html&#34;&gt;https://www.jb51.net/hardware/cpu/610074.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;我们知道，CPU 性能是主要由 CPU 构架、核心线程数量、主频、缓存等诸多因素共同决定，而“缓存”是很多网友容易忽视的一个地方。那么，CPU 缓存是什么？在电脑 CPU 中，一二三级缓存究竟谁对 CPU 性能影响最重要呢？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>https://adarkroom.cn/posts/work/</link>
+      <pubDate>Tue, 29 Sep 2020 12:10:47 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/work/</guid>
+      <description>&lt;p&gt;开发环境 Jenkins 的 Git Branches 和项目名称对照表及其说明和备忘。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wiki</title>
+      <link>https://adarkroom.cn/posts/wiki/</link>
+      <pubDate>Tue, 28 Jan 2020 12:26:30 +0800</pubDate>
+      <guid>https://adarkroom.cn/posts/wiki/</guid>
+      <description>&lt;img alt=&#34;picture 8&#34; src=&#34;https://adarkroom.cn/posts/wiki/imgs/1912db1b19fa392956a9d4c48a0c6354b8549ccf469303b891ec1a2a462d8fc2.png&#34; /&gt;</description>
+    </item>
+  </channel>
+</rss>
